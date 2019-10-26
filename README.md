@@ -1,6 +1,4 @@
 # 今日热榜
-#哈哈 我是guan，来提交commit啦
-#我再一次的来提交commit啦，啦啦啦啦
 [![Build Status](https://travis-ci.com/async-rs/async-std.svg?branch=master)](https://github.com/tophubs/TopList/)
 [![License](https://img.shields.io/badge/license-MIT%2FApache--2.0-blue.svg)](https://github.com/tophubs/TopList/)
 
